@@ -4,7 +4,7 @@ Zuri.chat — Interactive Demo
 
 A live, interactive prototype of Zuri.chat, an AI-powered chatbot platform for lead generation and customer support automation.
 
-Live Demo: https://ihcreative.github.io/zuri-chat-demo
+Live Demo: https://isaakhayes.github.io/zuri-chat-demo
 
 Overview
 
