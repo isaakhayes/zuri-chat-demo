@@ -1,41 +1,18 @@
-# zuri-chat-demo
+# Zuri
 
-Zuri.chat — Interactive Demo
+An interactive concept I designed and built. Zuri reads a home service shop's own website and drafts a customer-service bot. The owner reviews every answer before it goes live.
 
-A live, interactive prototype of Zuri.chat, an AI-powered chatbot platform for lead generation and customer support automation.
+**Live:** https://isaakhayes.github.io/zuri-chat-demo/
 
-Live Demo: https://isaakhayes.github.io/zuri-chat-demo
+## What it shows
 
-Overview
+- **A landing page with honest proof.** The statistics come from Invoca's 2026 call benchmarks and link to the source. There are no made-up testimonials or certifications.
+- **Detect, explain, let the owner correct.** The setup finds your logo, colors, services, hours and service area, says what it could not find (your prices), and asks. The personality choice explains how it was detected.
+- **A bot that shows its judgment.** Test it with real questions. Every answer shows where it came from. When it does not know, it says so and passes the question to the owner. A gas smell gets a safety answer and an alert, whatever the tone setting is. You can correct any answer, and the bot uses your correction next time.
+- **Choices that carry through.** The tone you pick changes the bot's greeting and its answers. The business name and colors follow into the chat.
+- **Channels with honest expectations.** Website chat and text messages come first because most home service customers call or text. WhatsApp is there for customers outside the US. Each channel says what it needs and how long approval can take.
+- **A finished ending.** Connect each channel, see its real status (live or in review), and land on a dashboard that shows what the bot could not answer.
 
-Zuri.chat is a no-code AI chatbot platform designed for SMBs, coaches, and service businesses. This demo walks users through the complete product experience: from URL analysis and bot customization, to testing, deployment selection, lead capture, pricing, and setup.
+## Using the demo
 
-Features
-
-URL Analysis — Analyze any website and auto-extract branding
-Interactive Bot Testing — Test your bot with sample customer questions
-Multi-Channel Deployment — Deploy to your website or WhatsApp Business
-Lead Capture — Collect prospect information during setup
-Flexible Pricing — Three tiers: Lite (free), Standard ($49/mo), Enterprise (custom)
-Live Dashboard — View conversations, lead metrics, and bot performance
-Risk Reversal — 14-day free trial, no credit card required, cancel anytime
-
-Tech Stack
-
-Vanilla HTML, CSS, and JavaScript
-Single-page application (no build step required)
-Dark theme with accessibility best practices
-Responsive design (mobile, tablet, desktop)
-
-Flow
-Complete 7-step onboarding: URL input → Brand review → Bot testing → Deployment selection → Lead capture → Pricing → Setup → Completion & Dashboard
-
-Design Philosophy
-
-Apple Design Principles — Minimalist, intentional, user-focused
-Conversion-Tested Copy — Risk reversal, social proof, clear CTAs
-Clear Information Hierarchy — Users understand the product at every step
-Progressive Disclosure — Reveal complexity only when needed
-
-Team
-Product & Design: Isaak Hayes | Built with: Claude (Anthropic)
+The bar at the top has Start over, which resets everything, and Back to portfolio. The demo works on desktop and phone.
